@@ -1,0 +1,26 @@
+# Sources checked — SMI Sensei Mode v1.0.0
+
+Spot-check of the most consequential time-sensitive claims in `sensei-live` and the fact base, done on **1 October 2026**. "Result" says what we found and what changed in the kit. Official sources were used wherever they could be loaded; where a secondary source was used, it says so.
+
+These checks are a snapshot. Rules and figures keep changing — re-check before acting.
+
+| # | Claim checked | Source(s) | Result |
+|---|---|---|---|
+| 1 | GENIUS Act: public law number, enactment date, and effective-date rule ("earlier" or "later" of 18 months / 120 days after final rules) | govinfo.gov — enrolled text of Public Law 119-27, Section 20 (PLAW-119publ27) | **Confirmed:** P.L. 119-27, 139 Stat. 419, approved 18 July 2025; effective on the **earlier** of the two dates. The fact base said "later of" — **fixed**. |
+| 2 | GENIUS Act rulemaking: Treasury NPRM date and comment deadline; whether any final rule has issued | home.treasury.gov press release sb0605 (17 Aug 2026); federalregister.gov doc. 2026-16796 (18 Aug 2026) and Federal Register API search for final rules mentioning the GENIUS Act; federalreserve.gov press release, 24 Sep 2026; FDIC proposed-rules page; Freshfields note (comment date, secondary) | **Partly corrected:** NPRM issued 17 Aug 2026, published 18 Aug 2026, comments due **19 Oct 2026** (was "~16 Oct"). No final rule by a primary federal payment stablecoin regulator found as of 1 Oct 2026. Treasury interim final rule (30 Sep 2026) for the Stablecoin Certification Review Committee noted. 18 January 2027 remains the operative effective date. |
+| 3 | Federal CBDC prohibition: vehicle, public law number, enactment date, sunset | congress.gov all-actions listing for H.R. 6644 (via search result: "Became Public Law No: 119-101"); House Financial Services Committee release, 11 Jul 2026; Holland & Knight summary (Aug 2026, secondary) | **Confirmed and expanded:** Title XI of the 21st Century ROAD to Housing Act, **P.L. 119-101**, law without signature 11 July 2026; bar runs through 31 December 2030. Title's own effective date not confirmed from enrolled text — flagged. |
+| 4 | Anti-CBDC Surveillance State Act (H.R. 1919) House vote | Sponsor's release (emmer.house.gov); ABA Banking Journal, 17 Jul 2025 | **Corrected:** passed the House **219–210** on 17 July 2025 (file said 219–217). Not law. |
+| 5 | CLARITY Act (H.R. 3633) status | CNBC, 15 Sep 2026; Troutman Pepper Locke analysis, 25 Sep 2026 (secondary; congress.gov blocks automated reading) | **Stale — updated:** Senate rejected cloture on the motion to proceed **49–50 on 15 September 2026**. Not law. |
+| 6 | SEC crypto "innovation exemption" / token taxonomy status | Federal Register API: doc. 2026-05635 (SEC interpretation with CFTC guidance, 23 Mar 2026); Troutman Pepper Locke (proposed Regulation Crypto Assets, 18 Aug 2026; comments due 20 Oct 2026) | **Stale — updated:** an SEC interpretation is published; the exemptions are a proposal. Neither is statute. |
+| 7 | SBA FY2027 7(a) fees: notice number, effective window, $700,000 waiver and who qualifies, fee bands, WCP/EWCP fees | sba.gov — Information Notice 5000-881797 (PDF read directly) | **Confirmed.** Applies to loans approved 1 Oct 2026 – 30 Sep 2027. FY2026 schedule marked expired. |
+| 8 | SBA FY2027 504 fees and waiver | sba.gov — Information Notice 5000-881796 (PDF read directly) | **Confirmed:** waiver for manufacturers, food supply chain and rural-area businesses; 0.50% / 0.203%; debt refinance 0.204%. |
+| 9 | SBA "rural area" definition (SOP 50 10 8.1) | Both SBA notices (term undefined); search for SOP text | **Not confirmed.** Remains tier D, labelled unverified. |
+| 10 | Form 1099-DA phase-in dates | irs.gov "Digital assets" page (last reviewed 2 Sep 2026); irs.gov newsroom | **Confirmed:** gross proceeds for transactions on or after 1 Jan 2025; basis on certain transactions on or after 1 Jan 2026. |
+| 11 | 2026 tax figures: standard deduction, QBI thresholds, EITC, §179, §461(l), estate and gift | irs.gov — Rev. Proc. 2025-32 (PDF read directly); IRS newsroom release, 9 Oct 2025 | **Two corrections:** QBI thresholds are $201,750 / $403,500 / $201,775 (file had $201,775 / $403,550); EITC investment-income limit is $12,200 (file had $11,950). Standard deduction $16,100 / $32,200 / $24,150, EITC max $8,231, §179 $2,560,000 / $4,090,000, §461(l) $256,000 / $512,000, estate $15,000,000, annual gift $19,000 **confirmed**. |
+| 12 | Debit interchange (Regulation II) litigation status | ABA Banking Journal, 2 Feb 2026 (*Corner Post*, Eighth Circuit); Senate Judiciary Committee release, 11 May 2026 (*Linney's Pizza*, Sixth Circuit) | **Updated:** vacatur stayed pending appeal; two appeals in different circuits. |
+
+## Where official sites could not be read automatically
+- congress.gov blocks automated fetching; bill status was confirmed through congress.gov search listings, committee and sponsor releases, and law-firm analyses, as noted above.
+
+## Not re-checked in this release
+Items in the fact base marked "as of July 2026" — for example the Corporate Transparency Act domestic-entity exemption, Opportunity Zone 2.0 nomination dates, the 163(j) election-withdrawal procedure, mortgage-rate and loan-limit figures, cap-rate ranges and state rent caps.
